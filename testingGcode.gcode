@@ -1,0 +1,9 @@
+; filament used [mm] = 9738.15, 0.00, 0.00
+; filament used [cm3] = 23.42, 0.00, 0.00
+; filament used [g] = 24.36, 0.00, 0.00
+; filament cost = 9.72, 0.00, 0.00
+; total filament used [g] = 24.36
+; total filament cost = 9.72
+; total layers count = 81
+; estimated printing time (normal mode) = 1h 12m 40s
+; estimated first layer printing time (normal mode) = 1s
